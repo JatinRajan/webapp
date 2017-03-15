@@ -26,7 +26,7 @@
     
   	"passport-jwt":"*"
     
-  },
+  },      
   
   "author": "sudopower",
   
